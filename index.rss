@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>circa main air</title>
+<link>http://epiphany.net.ve/</link>
+<description>epiphany</description>
+<item>
+	
+	<title>futuro</title>
+	
+	
+	  <guid>http://epiphany.net.ve/entry/futuro/</guid>
+	
+	<link>http://epiphany.net.ve/entry/futuro/</link>
+	
+	<pubDate>Tue, 29 Dec 2009 16:25:59 -0430</pubDate>
+	<dcterms:modified>2009-12-29T20:55:59Z</dcterms:modified>
+	
+	<description>&lt;p&gt;Tengo un problema con la sobrecarga de información.&lt;/p&gt;
+
+&lt;p&gt;Si fuera alguien &quot;normal&quot;, supongo que simplemente podría nadar entre
+el desorden y los gigabytes de información regados que tengo en mi laptop,
+desktop, oficina y afines. Pero no...&lt;/p&gt;
+
+&lt;p&gt;Dado que en los holidays tengo mucho tiempo libre en mis manos, he decidido
+dejar por escrito como planeo resolver este problema de una buena vez por
+todas.&lt;/p&gt;
+
+&lt;p&gt;Desde hace rato estoy obsesionada con un par de tecnologías y he estado
+jugando con ellas en proyectos personales y en mi trabajo, me refiero a
+&lt;a href=&quot;http://s3.amazonaws.com/&quot;&gt;amazon s3&lt;/a&gt; y a &lt;a href=&quot;http://git-scm.org/&quot;&gt;git&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lo que planeo hacer es lo siguiente:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Comprar 3 HDs de al menos 750 GB.&lt;/li&gt;
+&lt;li&gt;Mover TODA mi información a esos discos. Un disco debería bastar para todo,
+un segundo disco se usaría como backup y el tercero se usaría como intento
+de contrarrestar la influencia del maléfico Murphy. Al momento que escribo
+estas líneas, se puede conseguir un HD en 65 US$, por lo que me puedo
+llevar 3 en casi 200 US$.&lt;/li&gt;
+&lt;li&gt;Apagar todos mis computadores y sólo encender aquellos que sea necesarios
+para mi trabajo y/o diversión.&lt;/li&gt;
+&lt;li&gt;Comenzar desde cero en cada uno de mis computadores. Esto significa,
+eliminar TODOS los archivos de los directorios home de mis usuarios.&lt;/li&gt;
+&lt;li&gt;Crear varios repositorios git, los cuales usaré para la gestión de TODA
+mi información. Esta idea es elaborada con detalle por Joey Hess en su
+&lt;a href=&quot;http://kitenet.net/~joey/svnhome/&quot;&gt;famoso post&lt;/a&gt; (en ciertos círculos
+claro está) sobre como mantener todo un directorio home en cvs/svn/git.&lt;/li&gt;
+&lt;li&gt;Agregar a los repositorios git la información que sea necesaria para
+mi trabajo/diversión, la cual me veré obligado a ir buscando en mis HDs
+de respaldo. Por supuesto, después de un tiempo esto será cada vez menos
+necesario.&lt;/li&gt;
+&lt;li&gt;Configurar git para que envíe una copia de cada commit en los repositorios
+a amazon s3.&lt;/li&gt;
+&lt;li&gt;?????&lt;/li&gt;
+&lt;li&gt;Profit!1!!one1!11!eins&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Alguien podría decir: &quot;....WTF??!! demasiado trabajo...&quot;&lt;/p&gt;
+
+&lt;p&gt;Sin embargo yo veo algunas ventajas de todo esto, en primer lugar la ventaja
+obvia que provee git de tener el registro histórico de cualquier modificación
+que se haga a la información. En segundo lugar, tendría diversos backups de
+toda mi información en mis máquinas personales, por ejemplo mi directorio home
+estaría replicado entre mi desktop y mi laptop. En tercer lugar, el uso de
+amazon s3 provee la posibilidad de contar con backups offsite...&lt;/p&gt;
+
+&lt;p&gt;Hell yeah, esto es lo que planeo hacer. Estaré reportando mis avances y alguna
+que otra interesante technicality por aca!&lt;/p&gt;
+
+&lt;p&gt;Tschüss&lt;/p&gt;
+</description>
+	
+	
+</item>
+<item>
+	
+	<title>silencio ensordecedor</title>
+	
+	
+	  <guid>http://epiphany.net.ve/entry/silencio_ensordecedor/</guid>
+	
+	<link>http://epiphany.net.ve/entry/silencio_ensordecedor/</link>
+	
+	<pubDate>Tue, 29 Dec 2009 16:25:59 -0430</pubDate>
+	<dcterms:modified>2009-12-29T20:55:59Z</dcterms:modified>
+	
+	<description>&lt;p&gt;Es así, un 3 de enero a las casi 4 de la mañana y sin poder hacer mucho
+ante el insomnio. Es una madrugada atípica, justo cuando parecía que iba a
+poder dormir en paz. simplemente hubo un apagón.&lt;/p&gt;
+
+&lt;p&gt;Fue una explosión de silencio sumamente desconcertante, ya conozco esa
+sensación de cuando todo está en silencio, simplemente el ruido adentro de
+nuestras cabezas pareciera que fuera a hacerla explotar.&lt;/p&gt;
+
+&lt;p&gt;Regresa la electricidad sólo por un breve momento, va y viene.
+Se perciben sonidos muy curiosos, realmente preocupantes, no se como voy a
+dormir. Son ya las 4 am, maldito insomnio, me pones creativa.&lt;/p&gt;
+
+&lt;p&gt;No se exactamente hacia donde me dirijo, a donde quiero llegar, quizá solo
+necesito dormir y tener un bizarro sueño para poner las cosas en perspectiva
+de nuevo.&lt;/p&gt;
+
+&lt;p&gt;¿A quién quiero engañar? A todos, incluso a mi misma.&lt;/p&gt;
+</description>
+	
+	
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>RecentChanges</title>
+<link>http://epiphany.net.ve/recentchanges/</link>
+<description>epiphany</description>
+<item>
+	
+	<title>http://epiphany.net.ve/: change to entry/futuro on epiphany</title>
+	<dcterms:creator>http://epiphany.net.ve/</dcterms:creator>
+	
+	
+	  <guid>http://epiphany.net.ve/recentchanges/change_f9abf9421874cc9f327c16f8d5762f82e0344722/</guid>
+	
+	<link>http://epiphany.net.ve/recentchanges/#change-f9abf9421874cc9f327c16f8d5762f82e0344722</link>
+	
+	<pubDate>Thu, 09 Apr 2009 21:53:41 -0430</pubDate>
+	<dcterms:modified>2009-04-10T02:23:41Z</dcterms:modified>
+	
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-f9abf9421874cc9f327c16f8d5762f82e0344722&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=entry%2Ffuturo&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;entry/futuro&lt;/a&gt;
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=http%3A%2F%2Fepiphany.net.ve%2F&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;http://epiphany.net.ve/&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;web&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Thu, 09 Apr 2009 21:53:41 -0430&quot;&gt;late Thursday evening 04/09/09&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+blog post&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+	
+	
+</item>
+<item>
+	
+	<title>mariana: change to favicon.ico index on epiphany</title>
+	<dcterms:creator>mariana</dcterms:creator>
+	
+	
+	  <guid>http://epiphany.net.ve/recentchanges/change_47c939c1c1b936467dc00a7057427c9ea7b955de/</guid>
+	
+	<link>http://epiphany.net.ve/recentchanges/#change-47c939c1c1b936467dc00a7057427c9ea7b955de</link>
+	
+	<pubDate>Thu, 08 Jan 2009 14:23:43 -0430</pubDate>
+	<dcterms:modified>2009-01-08T18:53:43Z</dcterms:modified>
+	
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-47c939c1c1b936467dc00a7057427c9ea7b955de&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=favicon.ico&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;favicon.ico&lt;/a&gt;
+
+
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=mariana&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;mariana&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Thu, 08 Jan 2009 14:23:43 -0430&quot;&gt;Thursday afternoon 01/08/09&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+added a favicon and defined http://epiphany.net.ve/ as an openid URL&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+	
+	
+</item>
+<item>
+	
+	<title>mariana: change to entry entry/silencio_ensordecedor index on epiphany</title>
+	<dcterms:creator>mariana</dcterms:creator>
+	
+	
+	  <guid>http://epiphany.net.ve/recentchanges/change_fefc1e77acf625631b214b1d71fc50afacf2ec06/</guid>
+	
+	<link>http://epiphany.net.ve/recentchanges/#change-fefc1e77acf625631b214b1d71fc50afacf2ec06</link>
+	
+	<pubDate>Sat, 03 Jan 2009 18:31:16 -0430</pubDate>
+	<dcterms:modified>2009-01-03T23:01:16Z</dcterms:modified>
+	
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-fefc1e77acf625631b214b1d71fc50afacf2ec06&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=entry&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;entry&lt;/a&gt;
+
+
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=entry%2Fsilencio_ensordecedor&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;entry/silencio ensordecedor&lt;/a&gt;
+
+
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=mariana&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;mariana&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sat, 03 Jan 2009 18:31:16 -0430&quot;&gt;Saturday evening 01/03/09&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+blog update&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+	
+	
+</item>
+<item>
+	
+	<title>mariana: change to .gitignore on epiphany</title>
+	<dcterms:creator>mariana</dcterms:creator>
+	
+	
+	  <guid>http://epiphany.net.ve/recentchanges/change_55bc58b229ce56b6353b7ec930743a6552b6f2df/</guid>
+	
+	<link>http://epiphany.net.ve/recentchanges/#change-55bc58b229ce56b6353b7ec930743a6552b6f2df</link>
+	
+	<pubDate>Sat, 03 Jan 2009 18:07:41 -0430</pubDate>
+	<dcterms:modified>2009-01-03T22:37:41Z</dcterms:modified>
+	
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-55bc58b229ce56b6353b7ec930743a6552b6f2df&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=.gitignore&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;.gitignore&lt;/a&gt;
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://epiphany.net.ve/iki?page=mariana&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;mariana&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sat, 03 Jan 2009 18:07:41 -0430&quot;&gt;Saturday evening 01/03/09&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+initial commit&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+	
+	
+</item>
+
+</channel>
+</rss>
