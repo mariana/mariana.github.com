@@ -8,6 +8,60 @@
 <description>epiphany</description>
 <item>
 	
+	<title>mariana: change to entry/yeah_i_suck on epiphany</title>
+	<dcterms:creator>mariana</dcterms:creator>
+	
+	
+	  <guid>http://epiphany.net.ve/recentchanges/change_80663917f931a567faf5895be2964b6d48454776/</guid>
+	
+	<link>http://epiphany.net.ve/recentchanges/#change-80663917f931a567faf5895be2964b6d48454776</link>
+	
+	<pubDate>Tue, 29 Dec 2009 21:43:50 -0430</pubDate>
+	<dcterms:modified>2009-12-30T02:13:50Z</dcterms:modified>
+	
+	<description>
+
+
+
+
+
+
+
+&lt;div id=&quot;change-80663917f931a567faf5895be2964b6d48454776&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+&lt;a href=&quot;http://example.com/iki?page=entry%2Fyeah_i_suck&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;entry/yeah i suck&lt;/a&gt;
+
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://example.com/iki?page=mariana&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;mariana&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Tue, 29 Dec 2009 21:43:50 -0430&quot;&gt;late Tuesday evening 12/29/09&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+blog post&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+	
+	
+</item>
+<item>
+	
 	<title>http://epiphany.net.ve/: change to entry/futuro on epiphany</title>
 	<dcterms:creator>http://epiphany.net.ve/</dcterms:creator>
 	
@@ -32,7 +86,7 @@
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
-&lt;a href=&quot;http://epiphany.net.ve/iki?page=entry%2Ffuturo&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;entry/futuro&lt;/a&gt;
+&lt;a href=&quot;http://example.com/iki?page=entry%2Ffuturo&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;entry/futuro&lt;/a&gt;
 
 
 &lt;/span&gt;
@@ -86,18 +140,18 @@ blog post&lt;br /&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
-&lt;a href=&quot;http://epiphany.net.ve/iki?page=favicon.ico&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;favicon.ico&lt;/a&gt;
+&lt;a href=&quot;http://example.com/iki?page=favicon.ico&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;favicon.ico&lt;/a&gt;
 
 
 
-&lt;a href=&quot;http://epiphany.net.ve/iki?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+&lt;a href=&quot;http://example.com/iki?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
 
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
 &lt;span class=&quot;committer&quot;&gt;
 
-&lt;a href=&quot;http://epiphany.net.ve/iki?page=mariana&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;mariana&lt;/a&gt;
+&lt;a href=&quot;http://example.com/iki?page=mariana&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;mariana&lt;/a&gt;
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
@@ -144,22 +198,22 @@ added a favicon and defined http://epiphany.net.ve/ as an openid URL&lt;br /&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
-&lt;a href=&quot;http://epiphany.net.ve/iki?page=entry&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;entry&lt;/a&gt;
+&lt;a href=&quot;http://example.com/iki?page=entry&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;entry&lt;/a&gt;
 
 
 
-&lt;a href=&quot;http://epiphany.net.ve/iki?page=entry%2Fsilencio_ensordecedor&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;entry/silencio ensordecedor&lt;/a&gt;
+&lt;a href=&quot;http://example.com/iki?page=entry%2Fsilencio_ensordecedor&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;entry/silencio ensordecedor&lt;/a&gt;
 
 
 
-&lt;a href=&quot;http://epiphany.net.ve/iki?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+&lt;a href=&quot;http://example.com/iki?page=index&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
 
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
 &lt;span class=&quot;committer&quot;&gt;
 
-&lt;a href=&quot;http://epiphany.net.ve/iki?page=mariana&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;mariana&lt;/a&gt;
+&lt;a href=&quot;http://example.com/iki?page=mariana&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;mariana&lt;/a&gt;
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
@@ -206,14 +260,14 @@ blog update&lt;br /&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
-&lt;a href=&quot;http://epiphany.net.ve/iki?page=.gitignore&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;.gitignore&lt;/a&gt;
+&lt;a href=&quot;http://example.com/iki?page=.gitignore&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;.gitignore&lt;/a&gt;
 
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
 &lt;span class=&quot;committer&quot;&gt;
 
-&lt;a href=&quot;http://epiphany.net.ve/iki?page=mariana&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;mariana&lt;/a&gt;
+&lt;a href=&quot;http://example.com/iki?page=mariana&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;mariana&lt;/a&gt;
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
